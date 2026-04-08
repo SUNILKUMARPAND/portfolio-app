@@ -21,4 +21,4 @@ HTML5 & CSS3 &
 
 This project highlights my frontend development skills and demonstrates my ability to build scalable and user-friendly web applications using React.
 
-📌 Link - https://superlative-froyo-9aea6b.netlify.app/
+📌 Link - https://sunilpandaportfolio-app.netlify.app/
