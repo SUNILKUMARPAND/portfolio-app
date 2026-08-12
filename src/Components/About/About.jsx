@@ -40,14 +40,14 @@ const About = () => {
                         <h5>Contact</h5>
                         <small>
                             <ul>
-                                <li>Phone: 9036915145 </li>
-                                <li>Email: sunilkumarpanda132@gmail.com</li>
+                                <li>Phone: 7795861668 </li>
+                                <li>Email: pandasunilkumar137@gmail.com</li>
                             </ul>
                         </small>
                     </article>
                 </div>
                 <p>
-                    I am an immediate joiner & looking for a front-end developer role. Experienced professional with 2+ years in HTML/CSS, JavaScript/TypeScript, ReactJS & Next.js.
+                    I am an immediate joiner & looking for a front-end developer role. Experienced professional with 3+ years in HTML/CSS, JavaScript/TypeScript, ReactJS & Next.js.
                 </p>
             </div>
         </div>
