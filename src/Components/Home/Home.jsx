@@ -13,7 +13,7 @@ const  Home = () => {
                 <h1>Sunil Kumar Panda</h1>
                 <h5 className='text-light'>Frontend Developer</h5>
                 <div className='cta'>
-                    <a href="https://pdflink.to/sunilpanda123" download className='btn'>
+                    <a href="https://pdflink.to/sunilpanda1234/" download className='btn'>
                         Download CV
                     </a>
                     <a href="#contact" className='btn btn-primary'>
@@ -21,7 +21,7 @@ const  Home = () => {
                     </a>
                 </div>
                 <div className="home_social">
-                    <a href="https://www.linkedin.com/in/sunilpanda90">
+                    <a href="https://www.linkedin.com/in/sunilpanda56">
                         <BsLinkedin />
                     </a>
                     <a href="https://github.com/SUNILKUMARPAND">
